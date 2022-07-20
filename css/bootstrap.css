@@ -2823,22 +2823,22 @@ select[multiple].input-lg {
   color: #3c763d;
 }
 .has-success .form-control {
-  border-color: #3c763d;
+  border-color: #0004ff;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
 }
 .has-success .form-control:focus {
-  border-color: #2b542c;
+  border-color: #0004ff;
   -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #67b168;
           box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 6px #67b168;
 }
 .has-success .input-group-addon {
-  color: #3c763d;
+  color: #0004ff;
   background-color: #dff0d8;
-  border-color: #3c763d;
+  border-color: #0004ff;
 }
 .has-success .form-control-feedback {
-  color: #3c763d;
+  color: #0004ff;
 }
 .has-warning .help-block,
 .has-warning .control-label,
@@ -3172,26 +3172,26 @@ fieldset[disabled] .btn-primary.focus {
 }
 .btn-success {
   color: #fff;
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success:focus,
 .btn-success.focus {
   color: #fff;
-  background-color: #449d44;
-  border-color: #255625;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success:hover {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success:active,
 .btn-success.active,
 .open > .dropdown-toggle.btn-success {
   color: #fff;
-  background-color: #449d44;
-  border-color: #398439;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success:active:hover,
 .btn-success.active:hover,
@@ -3203,8 +3203,8 @@ fieldset[disabled] .btn-primary.focus {
 .btn-success.active.focus,
 .open > .dropdown-toggle.btn-success.focus {
   color: #fff;
-  background-color: #398439;
-  border-color: #255625;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success:active,
 .btn-success.active,
@@ -3220,11 +3220,11 @@ fieldset[disabled] .btn-success:focus,
 .btn-success.disabled.focus,
 .btn-success[disabled].focus,
 fieldset[disabled] .btn-success.focus {
-  background-color: #5cb85c;
-  border-color: #4cae4c;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .btn-success .badge {
-  color: #5cb85c;
+  color: #0004ff;
   background-color: #fff;
 }
 .btn-info {
@@ -3332,6 +3332,7 @@ fieldset[disabled] .btn-warning:hover,
 .btn-warning[disabled]:focus,
 fieldset[disabled] .btn-warning:focus,
 .btn-warning.disabled.focus,
+
 .btn-warning[disabled].focus,
 fieldset[disabled] .btn-warning.focus {
   background-color: #f0ad4e;
@@ -4882,11 +4883,11 @@ a.label:focus {
   background-color: #286090;
 }
 .label-success {
-  background-color: #5cb85c;
+  background-color: #0004ff;
 }
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #449d44;
+  background-color: #0004ff;
 }
 .label-info {
   background-color: #5bc0de;
@@ -5064,7 +5065,7 @@ a.thumbnail.active {
   border-top-color: #c9e2b3;
 }
 .alert-success .alert-link {
-  color: #2b542c;
+  color: #0004ff;
 }
 .alert-info {
   color: #31708f;
@@ -5162,7 +5163,7 @@ a.thumbnail.active {
           animation: progress-bar-stripes 2s linear infinite;
 }
 .progress-bar-success {
-  background-color: #5cb85c;
+  background-color: #0004ff;
 }
 .progress-striped .progress-bar-success {
   background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
@@ -5329,7 +5330,7 @@ button.list-group-item {
 }
 a.list-group-item-success,
 button.list-group-item-success {
-  color: #3c763d;
+  color: #0004ff;
 }
 a.list-group-item-success .list-group-item-heading,
 button.list-group-item-success .list-group-item-heading {
@@ -5339,7 +5340,7 @@ a.list-group-item-success:hover,
 button.list-group-item-success:hover,
 a.list-group-item-success:focus,
 button.list-group-item-success:focus {
-  color: #3c763d;
+  color: #0004ff;
   background-color: #d0e9c6;
 }
 a.list-group-item-success.active,
@@ -5349,8 +5350,8 @@ button.list-group-item-success.active:hover,
 a.list-group-item-success.active:focus,
 button.list-group-item-success.active:focus {
   color: #fff;
-  background-color: #3c763d;
-  border-color: #3c763d;
+  background-color: #0004ff;
+  border-color: #0004ff;
 }
 .list-group-item-info {
   color: #31708f;
