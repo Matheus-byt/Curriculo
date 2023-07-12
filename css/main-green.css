@@ -77,7 +77,7 @@ body.ajax-page-visible {
 }
 
 a {
-  color: #26288d;
+  color: #babbf3;
   text-decoration: none;
   outline: none;
   -webkit-transition: all 0.3s ease-in-out;
@@ -88,7 +88,7 @@ a {
 }
 
 a:hover {
-  color: #FF9800;
+  color: #1bdd45;
   text-decoration: none;
   outline: none;
 }
@@ -290,7 +290,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .form-group-with-icon.form-group-focus i {
-  color: #26288d;
+  color: #dadafd;
 }
 /* /Form controls */
 
@@ -329,7 +329,7 @@ button, input[type="button"], input[type="submit"] {
 .btn-primary:hover,
 .btn-primary:focus,
 button, input[type="button"], input[type="submit"] {
-  background-color: #26288d;
+  background-color: #ccccf8;
   color: #fff;
   border: 0;
   box-shadow: 0 1px 1px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.3);
@@ -354,11 +354,11 @@ button:hover, input[type="button"]:hover, input[type="submit"]:hover {
 /* / buttons */
 
 .border-top {
-  border-top: 2px solid #26288d;
+  border-top: 2px solid #cbccf1;
 }
 
 .border-bottom {
-  border-bottom: 2px solid #26288d;
+  border-bottom: 2px solid #cfcff3;
 }
 
 /* Footer */
@@ -579,7 +579,7 @@ body > footer .copyrights {
 }
 
 .site-title span {
-  color: #26288d;
+  color: #cbcbf1;
 }
 
 .header.sticked .site-title {
@@ -654,7 +654,7 @@ body > footer .copyrights {
   width: 0;
   height: 2px;
   margin: 0 auto;
-  background-color: #26288d;
+  background-color: #c4c5f7;
   -webkit-transition: all 0.15s ease-in-out;
   -moz-transition: all 0.15s ease-in-out;
   -o-transition: all 0.15s ease-in-out;
@@ -739,7 +739,7 @@ body > footer .copyrights {
 }
 
 .custom-page-content .page-header.color-1 {
-  background-color: #26288d;
+  background-color: #cdcef5;
   background-image: url(../images/sp_main_bg.png);
   background-size: cover;
   -webkit-background-size: cover;
